@@ -27,7 +27,7 @@ if len(first_name) < 2 or len(last_name) < 2:
     print("Please enter at least 2 characters in both names.")
 else:
     part1 = first_name[:2]
-    part2 = last_name[:2]
+    part2 = last_name[-2:]
 
     random_number = random.randint(1000, 9999)
 
