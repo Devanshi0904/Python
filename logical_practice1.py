@@ -267,7 +267,11 @@
 # ========================== multiplication num =================
 # num = 15
 # for i in range(1,11):
-#     print(num,"X",i,"=",num*i)
+#     print(n
+# 
+# 
+# 
+# um,"X",i,"=",num*i)
 
 
 # a=5

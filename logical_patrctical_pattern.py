@@ -173,6 +173,17 @@
 #     print("*"*i)
 
 
+#    *
+#    *
+# * * * *
+#    *
+#    *
+# for i in range(5):
+#     if i == 2:
+#         print("* * * *")
+#     else:
+#         print("   *")
+
 
 
 
@@ -374,10 +385,3 @@
 #     for j in range(i):
 #         print(chr(65+j),end=" ")
 #     print()
-
-
-# for i in range(5):
-#     if i == 2:
-#         print("* * * *")
-#     else:
-#         print("   *")
