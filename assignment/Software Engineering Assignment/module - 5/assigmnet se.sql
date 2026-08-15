@@ -121,7 +121,7 @@ create table Customer (Cnm int primary key,
                 city varchar(50),
                 rating int,
                 Sno int, foreign key (Sno) references Salesperson(Sno));
-                
+                auth_group
 insert into Customer values (201,'param','London',100,1001),
 (202,'zinal','Roe',200,1003),
 (203,'hetu','San Jose',300,1002),
