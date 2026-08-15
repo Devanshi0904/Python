@@ -113,8 +113,8 @@
 
 # array2=[2,32,44,53,13]
 # array2.sort()
-# print(array2)  
-
+# print(array2) 
+ 
 # array2=[44,53,13,2,32]
 # array2=[2,13,32,44,53]
 # array2=[59,9,10,11,23,45]
@@ -165,6 +165,7 @@
 
 
 #15.check if word in string
+
 # string="Wello World"
 # word=input("enter word:- ")
 # found=False
