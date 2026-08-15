@@ -193,34 +193,34 @@
 # else:
 #     print("Sorry Not Found")
 
-s="Hello World Good"
-s2=[]
-result=""
-check="Good"
+# s="Hello World Good"
+# s2=[]
+# result=""
+# check="Good"
 
-for i in s:
-    if i!=" ":
-        result+=i
-        print("result-1",result)
-    else:
-        s2.append(result)
-        print("result-2",result)
-        result=""
+# for i in s:
+#     if i!=" ":
+#         result+=i
+#         print("result-1",result)
+#     else:
+#         s2.append(result)
+#         print("result-2",result)
+#         result=""
         
-# if result !=" ":
-#     s2.append(result)
-s2.append(result)
-# print(s2)
+# # if result !=" ":
+# #     s2.append(result)
+# s2.append(result)
+# # print(s2)
 
-found=False
-print("s2............",s2)
-if check in s2:
-    found=True
+# found=False
+# print("s2............",s2)
+# if check in s2:
+#     found=True
     
-if found:
-    print("Yes")
-else:
-    print("No")
+# if found:
+#     print("Yes")
+# else:
+#     print("No")
 
 # 16.replace a string with another word
 # text="hello world!"
