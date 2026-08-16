@@ -194,6 +194,7 @@
 # else:
 #     print("Sorry Not Found")
 
+
 # s="Hello World Good"
 # s2=[]
 # result=""
@@ -223,7 +224,9 @@
 # else:
 #     print("No")
 
+
 # 16.replace a string with another word
+
 # text="hello world!"
 # new_string=""
 # new_chr=input("Enter Your Char:- ")
@@ -235,7 +238,9 @@
 #         new_string+=i
 # print(new_string)
 
+
 #17.reverse a string
+
 # string="hello world!"
 # reverse=""
 # for i in string:
@@ -245,6 +250,7 @@
 
 
 #18.reverse case string
+
 # string="Hello WoRLd"
 # new_string=""
 
@@ -256,6 +262,7 @@
 #     else:
 #         new_string+=i
 # print(new_string)
+
 
 # 19.remove all duplicate for given string
 
